@@ -1,0 +1,6 @@
+Mi nombre es Brian Alexis Merele, tengo 21 años.
+mis objetivos a realizar para este año son, adquirir nuevos conocimientos sobre temas que sean
+de mi interés, conocer nuevos compañeros para poder intercambiar ideas, y los más importante intentar 
+aprobar todas las materias de la carrera.
+Para mi CRUD es un concepto que se utiliza puede utilizar para resolver operaciones básicas
+que puede utilizarse en la programación, CRUD es el acronimo de (crear, leer, actualizar, borrar).
